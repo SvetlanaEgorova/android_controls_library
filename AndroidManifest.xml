@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:a="http://schemas.android.com/apk/res/android"
+          package="com.gulfstream.gcms.client.atouch"
+          a:versionCode="1" a:versionName="1.0">
+
+    <uses-sdk a:minSdkVersion="7" a:targetSdkVersion="7" a:maxSdkVersion="10"/>
+    <uses-permission a:name="android.permission.INTERNET"/>
+
+    <application a:icon="@drawable/common_icon" a:label="@string/app_name" a:debuggable="true"
+                 a:theme="@android:style/Theme.NoTitleBar"/>
+
+</manifest>
+
+
